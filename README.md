@@ -15,40 +15,40 @@ Agile Development Plan:
 
 Sprint 1 (1 week):
 
-Set up player character controls, including movement and aiming.
-Implement basic shooting mechanics for the player character.
-Create a simple forest environment with placeholder graphics.
+Task: Set up player character controls, including movement and aiming.
+Task: Implement basic shooting mechanics for the player character.
+Task: Create a simple forest environment with placeholder graphics.
 
 
 Sprint 2 (1 week):
 
-Implement spawning system for vampires at random positions within the forest.
-Develop vampire movement behavior towards the player.
-Implement collision detection between bullets and vampires.
+Task: Implement spawning system for vampires at random positions within the forest.
+Task: Develop vampire movement behavior towards the player.
+Task: Implement collision detection between bullets and vampires.
 
 
 Sprint 3 (1 week):
 
-Add game over condition when a vampire reaches the player.
-Implement scoring system based on the number of vampires shot down.
-Add basic UI elements to display player score and game over message.
+Task: Add game over condition when a vampire reaches the player.
+Task: Implement scoring system based on the number of vampires shot down.
+Task: Add basic UI elements to display player score and game over message.
 
 
 Sprint 4 (1 week):
 
-Polish player controls and shooting mechanics for smoother gameplay.
-Enhance vampire movement and behavior for increased challenge.
-Implement basic sound effects for shooting, vampire spawn, and game over.
+Task: Polish player controls and shooting mechanics for smoother gameplay.
+Task: Enhance vampire movement and behavior for increased challenge.
+Task: Implement basic sound effects for shooting, vampire spawn, and game over.
 
 
 Sprint 5 (1 week):
 
-Test and refine gameplay balance, adjusting vampire spawn rates and player shooting mechanics as needed.
-Fix any bugs or issues identified.
-Add visual effects for shooting and vampire destruction to enhance immersion.
+Task: Test and refine gameplay balance, adjusting vampire spawn rates and player shooting mechanics as needed.
+Task: Fix any bugs or issues identified.
+Task: Add visual effects for shooting and vampire destruction to enhance immersion.
 
 
 Sprint 6 (1 week):
 
-Final testing and debugging.
-Polish UI elements and overall game presentation.
+Task: Final testing and debugging.
+Task: Polish UI elements and overall game presentation.
